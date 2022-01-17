@@ -11,6 +11,7 @@ Some of the projects contain data files which are being processed in that specif
 <br/>
 <br/>
 <br/>
+
 To compile any of the individual projects use the Command:
 
 **For G++:**
@@ -29,8 +30,12 @@ cl /W4 /std:c++17 *.cpp /out:output.exe
 ```
 
 
-[Note:] To run any of the programs correctly the order of command line arguments matters. This is the case since the main functions were tester modules developed by our professors to get a specific output which is checked through a diff command with some fancy error messages. (a README will be supplied for each individual project along with a run script)
+[ Note: ] To run any of the programs correctly the ***order of command-line arguments matters***.<br/> 
+This is the case since the main functions were tester modules developed by our professors to get a specific output which is checked through a diff command with some fancy error messages.<br/> 
+(a README will be supplied for each individual project along with a run script)
 
+<br/>
+<br/>
 
 [Valgrind](https://valgrind.org/) is a Linux-only tool for C++ memory leak checking and is very useful for development.<br/>
 It can be used on Windows with either installing WSL, Mingw, or Cygwin.<br/>
