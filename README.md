@@ -4,7 +4,7 @@ These are simple C++ projects created as assignments in the Third Semester of Co
 
 The main goal of the projects is to practice C++ syntax and produce working code without errors or memory leaks. Workshop 8 has an intentional memory leak for smart pointer demonstration.
 
-Some of the projects contain simple mathematical work, input processing, error checking, memory handeling, inheritance & polymorphism, templated classes & functions, file processing, command-line input processing, lambda expressions, STL library, algorithms, multi-threading, bit-manipulation, and output formatting.
+Some of the projects contain simple mathematical work, input processing, error checking, memory handeling, inheritance & polymorphism, templated classes & functions, file processing, command-line input processing, lambda expressions, use of STL, algorithms, multi-threading, bit-manipulation, and output formatting.
 
 Some of the projects contain data files which are being processed in that specific project.
 
